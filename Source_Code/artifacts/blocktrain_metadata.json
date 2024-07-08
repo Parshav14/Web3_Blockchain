@@ -6,13 +6,12 @@
 	"output": {
 		"abi": [
 			{
-				"inputs": [
-					{
-						"internalType": "uint256",
-						"name": "_num",
-						"type": "uint256"
-					}
-				],
+				"inputs": [],
+				"stateMutability": "nonpayable",
+				"type": "constructor"
+			},
+			{
+				"inputs": [],
 				"name": "add",
 				"outputs": [],
 				"stateMutability": "nonpayable",
@@ -30,6 +29,26 @@
 				],
 				"stateMutability": "view",
 				"type": "function"
+			},
+			{
+				"inputs": [],
+				"name": "owner",
+				"outputs": [
+					{
+						"internalType": "address",
+						"name": "",
+						"type": "address"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			},
+			{
+				"inputs": [],
+				"name": "subtract",
+				"outputs": [],
+				"stateMutability": "nonpayable",
+				"type": "function"
 			}
 		],
 		"devdoc": {
@@ -45,7 +64,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"CRUD/Crud_operations.sol": "blocktrain"
+			"Source_Code/Constructors_Modifiers.sol": "blocktrain"
 		},
 		"evmVersion": "cancun",
 		"libraries": {},
@@ -59,12 +78,12 @@
 		"remappings": []
 	},
 	"sources": {
-		"CRUD/Crud_operations.sol": {
-			"keccak256": "0xd53036e1e7146143f71fbd1950696f442db078b3559af0bf6df5c2fd29c2046f",
+		"Source_Code/Constructors_Modifiers.sol": {
+			"keccak256": "0x614d95ae78022b9fda260758fb6fec9c52dc1e88af46761bbdf1d94a493ae313",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://42c7b48677de9424d165edf8e0391aa882f68b4b99f1784aa2991b247279ca6f",
-				"dweb:/ipfs/QmXY1rJLDHm7Gmvk5ktTcbiC9wY1vs27RDoggwFsQht7Xq"
+				"bzz-raw://2c0abbf4bf04645cce9028ece3efae57ba8cb887f132ac9bd2edd46fc2ca2fbd",
+				"dweb:/ipfs/QmQtSqYMWPFT7H2Jdmp6PTnfVD2TNuUw7EihKPDxwZ67yt"
 			]
 		}
 	},
