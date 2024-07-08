@@ -1,0 +1,72 @@
+{
+	"compiler": {
+		"version": "0.8.26+commit.8a97fa7a"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [
+					{
+						"internalType": "uint256",
+						"name": "_num",
+						"type": "uint256"
+					}
+				],
+				"name": "add",
+				"outputs": [],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			},
+			{
+				"inputs": [],
+				"name": "coins",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"CRUD/Crud_operations.sol": "blocktrain"
+		},
+		"evmVersion": "cancun",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"CRUD/Crud_operations.sol": {
+			"keccak256": "0x44601269800470a567258622b1bb6b265ae0870d4c2b32c0578342d29927df5a",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://4be3e5f18eb7b8dc1008df79f791da174f140290f17ea4f0b589b332bc53baca",
+				"dweb:/ipfs/QmSkzmdAUseVJ3B9sWouPjL33SxfU58RnqMpoNJtEpyWon"
+			]
+		}
+	},
+	"version": 1
+}
