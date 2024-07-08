@@ -60,11 +60,11 @@
 	},
 	"sources": {
 		"CRUD/Crud_operations.sol": {
-			"keccak256": "0x44601269800470a567258622b1bb6b265ae0870d4c2b32c0578342d29927df5a",
+			"keccak256": "0xd53036e1e7146143f71fbd1950696f442db078b3559af0bf6df5c2fd29c2046f",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://4be3e5f18eb7b8dc1008df79f791da174f140290f17ea4f0b589b332bc53baca",
-				"dweb:/ipfs/QmSkzmdAUseVJ3B9sWouPjL33SxfU58RnqMpoNJtEpyWon"
+				"bzz-raw://42c7b48677de9424d165edf8e0391aa882f68b4b99f1784aa2991b247279ca6f",
+				"dweb:/ipfs/QmXY1rJLDHm7Gmvk5ktTcbiC9wY1vs27RDoggwFsQht7Xq"
 			]
 		}
 	},
