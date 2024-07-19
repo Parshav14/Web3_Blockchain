@@ -1,0 +1,67 @@
+{
+	"compiler": {
+		"version": "0.8.26+commit.8a97fa7a"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "hello",
+				"outputs": [],
+				"stateMutability": "pure",
+				"type": "function"
+			},
+			{
+				"inputs": [],
+				"name": "parshav",
+				"outputs": [],
+				"stateMutability": "pure",
+				"type": "function"
+			},
+			{
+				"inputs": [],
+				"name": "singla",
+				"outputs": [],
+				"stateMutability": "pure",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"Source_Code/Error_Handling.sol": "checkErrors"
+		},
+		"evmVersion": "cancun",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"Source_Code/Error_Handling.sol": {
+			"keccak256": "0x09f58ac67cc5e0a22da998ac3c7c2597b81a31ad4fdb275cea48fba5534657d4",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://375004646eb90d20df115660a342a78646b0c7954db141e6c52d195b4679766b",
+				"dweb:/ipfs/QmXHKUp7GHkZHecDUbQBm9gyXt4SQ9PqpetTUKxoYDDki1"
+			]
+		}
+	},
+	"version": 1
+}
