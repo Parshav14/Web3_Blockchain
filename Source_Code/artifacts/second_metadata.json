@@ -1,0 +1,80 @@
+{
+	"compiler": {
+		"version": "0.8.26+commit.8a97fa7a"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "comeToMe",
+				"outputs": [
+					{
+						"internalType": "string",
+						"name": "",
+						"type": "string"
+					}
+				],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			},
+			{
+				"inputs": [
+					{
+						"internalType": "uint256",
+						"name": "_diff",
+						"type": "uint256"
+					}
+				],
+				"name": "length",
+				"outputs": [],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"Source_Code/second.sol": "second"
+		},
+		"evmVersion": "cancun",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"Source_Code/multipleContracts.sol": {
+			"keccak256": "0x6286b4ebce5285cfe52aa39126f54e9c46a8c4e17ebd885384751ed034378eea",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://e0036f24789541143a33051de2a83b748cbe937eb3ea2e5e03d1a2e9894e30ca",
+				"dweb:/ipfs/QmZLtimMkbFf33AtHheLAeayPi5v8BmpKNi4WzKaQSCM4U"
+			]
+		},
+		"Source_Code/second.sol": {
+			"keccak256": "0xdfeff49bd02f830c93e2e9a6988559e31a90955c72ceaefcd0c4a8110a97b7ea",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://2a0b7a3f5a769b80202f4c8e45d3b4260195d6d6f44de5d5ba12e16bb02630a1",
+				"dweb:/ipfs/QmcTLAremaDHADffBD3APPKjEdybPs2SyXtSaYCyFYJynX"
+			]
+		}
+	},
+	"version": 1
+}
